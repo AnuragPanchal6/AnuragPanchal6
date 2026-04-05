@@ -41,21 +41,21 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragPanchal6&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPanchal6&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=AnuragPanchal6&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repo
 
-![repo](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical)
+![repo](https://github-contributor-stats.vercel.app/api?username=AnuragPanchal6&limit=5&theme=radical)
 
 
 <!--
