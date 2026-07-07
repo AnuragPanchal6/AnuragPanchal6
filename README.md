@@ -7,7 +7,7 @@
 - 🔭 Working on: DSA & MERN Stack Projects  
 - 🤝 Collaborate on: Open Source & Backend Projects  
 - 💡 Learning: System Design & Advanced DSA  
-- 💬 Ask me about: C++, Python, Java, JavaScript  
+- 💬 Ask me about: C, Python, Java, JavaScript  
 - ⚡ Fun fact: I love debugging 😄  
 
 ---
